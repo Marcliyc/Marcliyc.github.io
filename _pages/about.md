@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm **Yicheng (Marco) Li**, an MSE Data Science student at the University of Pennsylvania.
+Hi! I'm **Yicheng (Marco) Li**, an MSE Data Science student at the University of Pennsylvania and an NYU graduate.
 
-I work at the intersection of **machine learning**, **medical imaging**, and **AI for science**, with interests spanning representation learning, robust model adaptation, and physically grounded learning systems.
+I work at the intersection of **machine learning**, **LLM**, and **AI for science**, with interests spanning representation learning, robust model adaptation, reinforcement learning, and physically grounded learning systems.
 
-**Contact:** li47@seas.upenn.edu | (267) 320-5860 | [GitHub](https://github.com/MarCO-COrle0NE)
+<!-- **Contact:** li47@seas.upenn.edu | (267) 320-5860 | [GitHub](https://github.com/MarCO-COrle0NE) -->
 
-Education
+<!-- Education
 ======
 - **University of Pennsylvania**, Philadelphia, PA, US *(Aug 2025 – May 2027 expected)*  
   MSE in Data Science, GPA: 4.0/4.0  
@@ -47,7 +47,7 @@ Experience
   Used Python, AWS RDS, and SQL to build data pipelines for AI recruiter development.
 
 - **Data Analyst Intern, Wison Engineering** — Shanghai, China *(May 2025 – Aug 2025)*  
-  Built analytics pipelines and dashboards with Python, Pandas, SQL, and Power BI for management decision support.
+  Built analytics pipelines and dashboards with Python, Pandas, SQL, and Power BI for management decision support. -->
 
 Research Interests
 ======

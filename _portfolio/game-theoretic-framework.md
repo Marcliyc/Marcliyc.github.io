@@ -1,6 +1,6 @@
 ---
 title: "A Game-Theoretic Framework for Personal Data Sharing"
-excerpt: "A strategic multi-agent framework balancing personalization rewards and privacy risks.<br/><img src='/images/500x300.png' alt='Game-theoretic framework placeholder image'>"
+excerpt: "A strategic multi-agent framework balancing personalization rewards and privacy risks."
 collection: portfolio
 ---
 
@@ -11,4 +11,4 @@ Developed a multi-agent game-theoretic framework where users strategically trade
 - Implemented time-series simulations with Python/Gymnasium and Deep-RL-based policies.
 - Observed substantial reward gains over single-action baseline strategies.
 
-**Poster/Image Placeholder:** replace `/images/500x300.png` with your capstone poster or visual summary.
+<!-- **Poster/Image Placeholder:** replace `/images/500x300.png` with your capstone poster or visual summary. -->
