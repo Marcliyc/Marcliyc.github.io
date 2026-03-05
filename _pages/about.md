@@ -51,9 +51,9 @@ Experience
 
 Research Interests
 ======
-- **Medical imaging & multimodal learning:** vision-language and generative modeling for biomedical prediction, tissue modeling, and clinically meaningful representations.
-- **Scientific machine learning:** PINNs and neural operators for PDE-constrained systems, boundary-condition enforcement, and reliable simulation surrogates.
+- **Multimodal learning:** vision-language and generative modeling for biomedical prediction, tissue modeling, and clinically meaningful representations.
 - **Efficient foundation models:** weak-to-strong generalization, model distillation, and scalable adaptation across diverse domains.
 - **Robust learning systems:** alignment-aware training, domain adaptation, and generalization analysis under distribution shift.
+- **Scientific machine learning:** PINNs and neural operators for PDE-constrained systems, boundary-condition enforcement, and reliable simulation surrogates.
 
 For projects and publications, please see the dedicated tabs in the navigation bar.

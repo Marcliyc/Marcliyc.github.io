@@ -19,7 +19,7 @@ repository               : "Marcliyc/Marcliyc.github.io"
 
 # Site Author
 author:
-  avatar           : "profile.png"
+  avatar           : "myself.jpg"
   name             : "Yicheng (Marco) Li"
   pronouns         :
   bio              : "MSE Data Science @ UPenn | ML, Med Imaging, PINNs, and AI for Science"
@@ -134,7 +134,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :
+og_image                 : 
 og_description           :
 social:
   type                   :
